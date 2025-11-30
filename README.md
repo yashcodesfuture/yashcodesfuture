@@ -48,16 +48,8 @@ If Ayanokoji had a channel for students — it’d feel like this.
 - Become someone my younger self would admire  
 
 ---
-
-## 📫 Let’s Connect  
-If you stumble upon my repos, feel free to:  
-- ⭐ Star them  
-- 🍥 Open issues  
-- 🌀 Give feedback  
-- 🏋️ Share anime wisdom  
-
----
-
-## ✨ Final Note  
-I’m not here to be average.  
-I’m here to rewrite my story — one commit, one rep, one video at a time.
+## My Projects
+[Japanese Grammar Course]()
+[AQI to life]() - It calculates how many years of your life will you lose by living in a poor air quality.
+[E-Portfolio]()
+[Youtube Video Saver]() - Saves youtube videos provide it link and it'll save it for later. No sign in required.
