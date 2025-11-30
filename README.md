@@ -29,17 +29,14 @@ If Ayanokoji had a channel for students — it’d feel like this.
 - HTML/CSS  
 - JavaScript (learning stage)  
 - DaVinci Resolve  
-- Notion  
-- Windows productivity tools  
+- Notion
+- Arch Linux (Yes, I am better than you)
 - Anything that makes me 1% better daily  
 
 ---
 
 ## 🧩 My Philosophy  
-> “If I can’t find the door, I’ll build one.”  
-Minimal talking. Maximum action.  
-Every day is training. Every choice is a stat upgrade.  
-Life = long-term strategy, not short-term hype.
+> "Aim for the moon, So, even if you fail you'll still be among the stars"
 
 ---
 
@@ -47,7 +44,7 @@ Life = long-term strategy, not short-term hype.
 - Get into **MIT**  
 - Win the **MEXT scholarship** & study in Japan  
 - Work at **Google**  
-- Build an anime-inspired productivity empire  
+- Build an anime-inspired productivity empire (Youtube Channel, brand, write books, websites)
 - Become someone my younger self would admire  
 
 ---
