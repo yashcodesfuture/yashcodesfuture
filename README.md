@@ -27,13 +27,13 @@ I'm a 9th Grader from India grinding life like I'm the main character. I'm many 
 - Spanish
 
 #### Future Plans
-2029 - Study DS/AI (Dual-Degree) in US(preferably) or Japan (if I get into English courses I'm not gonna study in Japanese)
-2033 - Study abroad (US). Get my masters degree (probably M.BA) from a top 10 US colleges.
-2035 - Work 3 years in US or any other country (like Canada) with strong currency.
-2037 - Move permanently to Japan
-2039 - Get a PR. Leave your job and work remote in a US firm.
-2043 - Naturalize. Get a japanese citizenship (esp that strong passport)
-From now work remote and travel. Be a digital nomad.
+- 2029 - Study DS/AI (Dual-Degree) in US(preferably) or Japan (if I get into English courses I'm not gonna study in Japanese)
+- 2033 - Study abroad (US). Get my masters degree (probably M.BA) from a top 10 US colleges.
+- 2035 - Work 3 years in US or any other country (like Canada) with strong currency.
+- 2037 - Move permanently to Japan
+- 2039 - Get a PR. Leave your job and work remote in a US firm.
+- 2043 - Naturalize. Get a japanese citizenship (esp that strong passport)
+- From now work remote and travel. Be a digital nomad.
 
 ## My Projects
 [Japanese Grammar Course](https://yashcodesfuture.github.io/Japanese-Grammar-Lectures/)
